@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "apkUrl": "https://github.com/selfness-byte/dform-pattern-updates/releases/download/v0.1.1/DformPattern-0.1.1-debug.apk",
+  "releaseNotes": "기본 색상을 8색으로 줄이고 4·6·8·12색 선택을 추가했습니다. 블럭의 돌기와 홈이 보이도록 미리보기와 PNG를 개선했습니다. 기존 도안 색 줄이기와 업데이트 확인을 추가했습니다."
+}
