@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "apkUrl": "https://github.com/selfness-byte/dform-pattern-updates/releases/download/v0.1.1/DformPattern-0.1.1-debug.apk",
-  "releaseNotes": "기본 색상을 8색으로 줄이고 4·6·8·12색 선택을 추가했습니다. 블럭의 돌기와 홈이 보이도록 미리보기와 PNG를 개선했습니다. 기존 도안 색 줄이기와 업데이트 확인을 추가했습니다."
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "apkUrl": "https://github.com/selfness-byte/dform-pattern-updates/releases/download/v0.1.5/DformPattern-0.1.5-debug.apk",
+  "releaseNotes": "여러 배경색과 가장자리 연결로 배경 오선택을 줄이고 물체 직접 선택을 추가했습니다. 애매하면 사진 전체를 유지합니다. 긴 변 16칸 미니 사각 도안·최대 6색 캐주얼 랜덤·흰 틈 없는 블록 표현·되돌리기를 지원합니다."
 }
